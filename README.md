@@ -9,15 +9,6 @@ The project uses the Telco Customer Churn dataset sourced from Kaggle. The datas
 ## Methodology
 An end-to-end machine learning workflow is implemented in this project. This includes exploratory data analysis to understand customer behavior, data preprocessing and feature engineering, training and evaluation of multiple classification models, and selection of a final model based on performance and interpretability. All detailed analysis and experimentation are documented in the Jupyter notebooks included in the repository.
 
-## Repository Structure
-FUTURE_ML_02/
-├── data/
-├── notebooks/
-├── models/
-├── requirements.txt
-└── README.md
-
-
 ## Usage
 Clone the repository, install the required dependencies, and execute the notebooks in sequence, starting with data exploration followed by model training.
 
